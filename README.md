@@ -1,5 +1,5 @@
-# JavaScript Calculator App
+# JavaScript Calculator
 ---
-[title] (https://bcaruthers.github.io/calculator/)
+[JavaScript Calculator] (https://bcaruthers.github.io/calculator/)
 ---
 
