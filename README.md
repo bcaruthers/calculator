@@ -1,4 +1,4 @@
-# Calculator | ![Vets Who Code](https://img.shields.io/badge/%23VWC-%23Vets%20Who%20Code-blue.svg)](https://vetswhocode.io/) |
+# Calculator | [![Vets Who Code][vwc-img]][vwc]
 ---
 ![calculator image](https://res.cloudinary.com/dqejlzsb4/image/upload/v1559208705/Screen_Shot_2019-05-30_at_3.29.27_AM.png)
 ---
@@ -9,3 +9,5 @@
 ![calculator in action gif](https://res.cloudinary.com/dqejlzsb4/image/upload/v1559209465/2019-05-30_03.42.55.gif)
 ---
 
+[vwc-img]: https://img.shields.io/badge/%23VWC-%23Vets%20Who%20Code-blue.svg
+[vwc]: https://vetswhocode.io/
