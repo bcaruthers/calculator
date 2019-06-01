@@ -1,4 +1,4 @@
-# Calculator | [![Vets Who Code][vwc-img]][vwc]
+# Calculator | [![Vets Who Code][vwc-img]][vwc] | [/github/repo-size/:user/:repo.svg]
 ---
 ![calculator image](https://res.cloudinary.com/dqejlzsb4/image/upload/v1559208705/Screen_Shot_2019-05-30_at_3.29.27_AM.png)
 ---
@@ -14,7 +14,7 @@
 * CSS - Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML.
 * HTML - HTML (HyperText Markup Language) defines the meaning and structure of web content.
 
-Author
+### Author
 ---
 * Bryant Caruthers
 
