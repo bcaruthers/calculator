@@ -8,6 +8,11 @@
 ---
 ![calculator in action gif](https://res.cloudinary.com/dqejlzsb4/image/upload/v1559209465/2019-05-30_03.42.55.gif)
 ---
+### Built With
+---
+* JavaScript
+* CSS
+* HTML
 
 [vwc-img]: https://img.shields.io/badge/%23VWC-%23Vets%20Who%20Code-blue.svg
 [vwc]: https://vetswhocode.io/
