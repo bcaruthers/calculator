@@ -8,7 +8,7 @@
 
 ### Introduction
 ---
-### A simple calculator, that looks similar to the standard Mac OS X calculator.
+* A simple calculator, that looks similar to the standard Mac OS X calculator.
 
 ![calculator in action gif](https://res.cloudinary.com/dqejlzsb4/image/upload/v1559209465/2019-05-30_03.42.55.gif)
 
