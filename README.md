@@ -4,7 +4,7 @@
 
 ### Link
 ---
-[Calculator Link](https://bcaruthers.github.io/calculator/)
+* [Calculator Link](https://bcaruthers.github.io/calculator/)
 
 ### Introduction
 ---
