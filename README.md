@@ -10,9 +10,13 @@
 ---
 ### Built With
 ---
-* JavaScript
-* CSS
-* HTML
+* JavaScript - A cross-platform, object-oriented scripting language used to make webpages interactive.
+* CSS - Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML.
+* HTML - HTML (HyperText Markup Language) defines the meaning and structure of web content.
+
+Author
+---
+Bryant Caruthers
 
 [vwc-img]: https://img.shields.io/badge/%23VWC-%23Vets%20Who%20Code-blue.svg
 [vwc]: https://vetswhocode.io/
