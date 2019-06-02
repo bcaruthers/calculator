@@ -1,5 +1,5 @@
 # Calculator | [![Vets Who Code][vwc-img]][vwc]
----
+
 ![calculator image](https://res.cloudinary.com/dqejlzsb4/image/upload/v1559208705/Screen_Shot_2019-05-30_at_3.29.27_AM.png)
 
 ### Link
